@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myactivitylifecycle" />
+            <option value="$PROJECT_DIR$/myactivityresult" />
+            <option value="$PROJECT_DIR$/myalarmclock" />
+            <option value="$PROJECT_DIR$/myappupdate" />
+            <option value="$PROJECT_DIR$/mybroadcastreceiver" />
+            <option value="$PROJECT_DIR$/mycache" />
+            <option value="$PROJECT_DIR$/mycheckbox" />
+            <option value="$PROJECT_DIR$/mycheckbox2" />
+            <option value="$PROJECT_DIR$/mycontact" />
+            <option value="$PROJECT_DIR$/mycookbookdemo" />
+            <option value="$PROJECT_DIR$/mydialog" />
+            <option value="$PROJECT_DIR$/myfilemanager" />
+            <option value="$PROJECT_DIR$/mygridview" />
+            <option value="$PROJECT_DIR$/myimagebutton" />
+            <option value="$PROJECT_DIR$/myimageswitcher" />
+            <option value="$PROJECT_DIR$/myimageview" />
+            <option value="$PROJECT_DIR$/myintent" />
+            <option value="$PROJECT_DIR$/mylistview" />
+            <option value="$PROJECT_DIR$/mylistviewnotify" />
+            <option value="$PROJECT_DIR$/mymediacontent" />
+            <option value="$PROJECT_DIR$/mymenu" />
+            <option value="$PROJECT_DIR$/mynotification" />
+            <option value="$PROJECT_DIR$/mypage" />
+            <option value="$PROJECT_DIR$/mypicker" />
+            <option value="$PROJECT_DIR$/myradiobutton" />
+            <option value="$PROJECT_DIR$/myratingbar" />
+            <option value="$PROJECT_DIR$/myregister" />
+            <option value="$PROJECT_DIR$/mysdcard" />
+            <option value="$PROJECT_DIR$/myseekbar" />
+            <option value="$PROJECT_DIR$/myservice" />
+            <option value="$PROJECT_DIR$/mysharedpreference" />
+            <option value="$PROJECT_DIR$/mysms" />
+            <option value="$PROJECT_DIR$/mysmsreceiver" />
+            <option value="$PROJECT_DIR$/myspinner" />
+            <option value="$PROJECT_DIR$/mysqlitetest" />
+            <option value="$PROJECT_DIR$/mytextswitcher" />
+            <option value="$PROJECT_DIR$/mytoast" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myactivitylifecycle" />
+            <option value="$PROJECT_DIR$/myactivityresult" />
+            <option value="$PROJECT_DIR$/myalarmclock" />
+            <option value="$PROJECT_DIR$/myappupdate" />
+            <option value="$PROJECT_DIR$/mybroadcastreceiver" />
+            <option value="$PROJECT_DIR$/mycache" />
+            <option value="$PROJECT_DIR$/mycheckbox" />
+            <option value="$PROJECT_DIR$/mycheckbox2" />
+            <option value="$PROJECT_DIR$/mycontact" />
+            <option value="$PROJECT_DIR$/mycookbookdemo" />
+            <option value="$PROJECT_DIR$/mydialog" />
+            <option value="$PROJECT_DIR$/myfilemanager" />
+            <option value="$PROJECT_DIR$/mygridview" />
+            <option value="$PROJECT_DIR$/myimagebutton" />
+            <option value="$PROJECT_DIR$/myimageswitcher" />
+            <option value="$PROJECT_DIR$/myimageview" />
+            <option value="$PROJECT_DIR$/myintent" />
+            <option value="$PROJECT_DIR$/mylistview" />
+            <option value="$PROJECT_DIR$/mylistviewnotify" />
+            <option value="$PROJECT_DIR$/mymediacontent" />
+            <option value="$PROJECT_DIR$/mymenu" />
+            <option value="$PROJECT_DIR$/mynotification" />
+            <option value="$PROJECT_DIR$/mypage" />
+            <option value="$PROJECT_DIR$/mypicker" />
+            <option value="$PROJECT_DIR$/myradiobutton" />
+            <option value="$PROJECT_DIR$/myratingbar" />
+            <option value="$PROJECT_DIR$/myregister" />
+            <option value="$PROJECT_DIR$/mysdcard" />
+            <option value="$PROJECT_DIR$/myseekbar" />
+            <option value="$PROJECT_DIR$/myservice" />
+            <option value="$PROJECT_DIR$/mysharedpreference" />
+            <option value="$PROJECT_DIR$/mysms" />
+            <option value="$PROJECT_DIR$/mysmsreceiver" />
+            <option value="$PROJECT_DIR$/myspinner" />
+            <option value="$PROJECT_DIR$/mysqlitetest" />
+            <option value="$PROJECT_DIR$/mytextswitcher" />
+            <option value="$PROJECT_DIR$/mytoast" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

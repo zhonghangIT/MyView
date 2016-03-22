@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyView.iml" filepath="$PROJECT_DIR$/MyView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myactivitylifecycle/myactivitylifecycle.iml" filepath="$PROJECT_DIR$/myactivitylifecycle/myactivitylifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myactivityresult/myactivityresult.iml" filepath="$PROJECT_DIR$/myactivityresult/myactivityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myalarmclock/myalarmclock.iml" filepath="$PROJECT_DIR$/myalarmclock/myalarmclock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myappupdate/myappupdate.iml" filepath="$PROJECT_DIR$/myappupdate/myappupdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybroadcastreceiver/mybroadcastreceiver.iml" filepath="$PROJECT_DIR$/mybroadcastreceiver/mybroadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycache/mycache.iml" filepath="$PROJECT_DIR$/mycache/mycache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycheckbox/mycheckbox.iml" filepath="$PROJECT_DIR$/mycheckbox/mycheckbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycheckbox2/mycheckbox2.iml" filepath="$PROJECT_DIR$/mycheckbox2/mycheckbox2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycontact/mycontact.iml" filepath="$PROJECT_DIR$/mycontact/mycontact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycookbookdemo/mycookbookdemo.iml" filepath="$PROJECT_DIR$/mycookbookdemo/mycookbookdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydialog/mydialog.iml" filepath="$PROJECT_DIR$/mydialog/mydialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfilemanager/myfilemanager.iml" filepath="$PROJECT_DIR$/myfilemanager/myfilemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygridview/mygridview.iml" filepath="$PROJECT_DIR$/mygridview/mygridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myimagebutton/myimagebutton.iml" filepath="$PROJECT_DIR$/myimagebutton/myimagebutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myimageswitcher/myimageswitcher.iml" filepath="$PROJECT_DIR$/myimageswitcher/myimageswitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myimageview/myimageview.iml" filepath="$PROJECT_DIR$/myimageview/myimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myintent/myintent.iml" filepath="$PROJECT_DIR$/myintent/myintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylistview/mylistview.iml" filepath="$PROJECT_DIR$/mylistview/mylistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylistviewnotify/mylistviewnotify.iml" filepath="$PROJECT_DIR$/mylistviewnotify/mylistviewnotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymediacontent/mymediacontent.iml" filepath="$PROJECT_DIR$/mymediacontent/mymediacontent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymenu/mymenu.iml" filepath="$PROJECT_DIR$/mymenu/mymenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mynotification/mynotification.iml" filepath="$PROJECT_DIR$/mynotification/mynotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypage/mypage.iml" filepath="$PROJECT_DIR$/mypage/mypage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypicker/mypicker.iml" filepath="$PROJECT_DIR$/mypicker/mypicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myradiobutton/myradiobutton.iml" filepath="$PROJECT_DIR$/myradiobutton/myradiobutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myratingbar/myratingbar.iml" filepath="$PROJECT_DIR$/myratingbar/myratingbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myregister/myregister.iml" filepath="$PROJECT_DIR$/myregister/myregister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysdcard/mysdcard.iml" filepath="$PROJECT_DIR$/mysdcard/mysdcard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myseekbar/myseekbar.iml" filepath="$PROJECT_DIR$/myseekbar/myseekbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myservice/myservice.iml" filepath="$PROJECT_DIR$/myservice/myservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysharedpreference/mysharedpreference.iml" filepath="$PROJECT_DIR$/mysharedpreference/mysharedpreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysms/mysms.iml" filepath="$PROJECT_DIR$/mysms/mysms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysmsreceiver/mysmsreceiver.iml" filepath="$PROJECT_DIR$/mysmsreceiver/mysmsreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspinner/myspinner.iml" filepath="$PROJECT_DIR$/myspinner/myspinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysqlitetest/mysqlitetest.iml" filepath="$PROJECT_DIR$/mysqlitetest/mysqlitetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytextswitcher/mytextswitcher.iml" filepath="$PROJECT_DIR$/mytextswitcher/mytextswitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytoast/mytoast.iml" filepath="$PROJECT_DIR$/mytoast/mytoast.iml" />
+    </modules>
+  </component>
+</project>
