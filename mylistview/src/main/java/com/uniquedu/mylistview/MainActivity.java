@@ -1,8 +1,8 @@
 package com.uniquedu.mylistview;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -12,10 +12,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button mButtonArray;
     private Button mButtonSimple;
     private Button mButtonBase;
+    private Button mButtonItems;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        mButtonItems = (Button) findViewById(R.id.button_items);
+        mButtonItems.setOnClickListener(this);
         mButtonArray= (Button) findViewById(R.id.button_array);
         mButtonArray.setOnClickListener(this);
         mButtonSimple= (Button) findViewById(R.id.button_simple);
@@ -37,6 +40,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.button_base:
                 Intent intentBase=new Intent(getApplicationContext(),UseBaseAdapterActivity.class);
                 startActivity(intentBase);
+                break;
+            case R.id.button_items:
+                Intent intentItems=new Intent(getApplicationContext(),ItemsActivity.class);
+                startActivity(intentItems);
                 break;
         }
     }
